@@ -470,6 +470,83 @@ td, .bmi-cal-desc{
 
 
 
+/* start footer */
+footer{
+    max-width: 1440px;
+    /* height: 2000px; */
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.1);
+    margin-top: 70px;
+}
+.footer-section{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    /* border: 3px solid red; */
+    justify-content: space-between;
+    align-items: center;
+    padding-top:40px ;
+}
+.left-footer{
+    width: 33.33%;
+}
+.left-footer-title{
+    font-weight: 800;
+    font-style: italic;
+    font-size: 4.2rem;
+    color: rgba(230, 83, 60, 1);
+    margin-bottom: 30px;
+    /* border: 2px solid green; */
+    /* width: 33.33%; */
+}
+.middle-footer-title{
+    font-weight: 700;
+    font-size: 2rem;
+    color: #FFFFFF ;
+    margin-bottom: 30px;
+}
+
+.middle-footer-links{
+    list-style: none;
+
+}
+.middle-footer-link{
+    text-decoration: none;
+    margin-top: 10px;
+    color:rgba(255, 255, 255, 0.5);
+}
+.hr{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+.end{
+    width: 1000px;
+    margin:0 auto;
+    /* border: 4px solid red; */
+    /* text-align: center; */
+    padding: 20px;
+    /* margin-top: 20px; */
+}
+.ended{
+    /* font-size:14px; */
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+
+
+
+/* end footer */
+
+
+
+
+
+
+
 
 
 
