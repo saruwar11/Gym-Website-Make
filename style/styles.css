@@ -584,6 +584,9 @@ footer{
    width: 90%;
 
    }
+   .nav-banner-btn{
+    padding: 10px;
+   }
    .nav-banner01{
 
        display: flex;
